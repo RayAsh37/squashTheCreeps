@@ -1,4 +1,4 @@
-# squashTheCreeps
+# Squash The Creeps
 
 Access the website [here](https://rayash37.github.io/squashTheCreeps/)
 
